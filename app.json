@@ -1,0 +1,12 @@
+{
+  "name": "NotePadExpo",
+  "displayName": "NotePadExpo",
+  "expo": {
+    "name": "NotePadExpo",
+    "slug": "NotePadExpo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
